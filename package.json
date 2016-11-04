@@ -1,0 +1,29 @@
+{
+  "name": "js-ajax",
+  "version": "1.0.0",
+  "description": "JS Ajax Demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Janetquispeu/cancha.git"
+  },
+  "keywords": [
+    "js",
+    "ajaz",
+    "express\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[x\u001b[D\u001b[D\u001b[D\u001b[D",
+    "\u001b[C\u001b[C\u001b[D\u001b[Dajax",
+    "express"
+  ],
+  "author": "Janet Quispe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Janetquispeu/cancha/issues"
+  },
+  "homepage": "https://github.com/Janetquispeu/cancha#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}

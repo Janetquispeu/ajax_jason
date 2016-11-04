@@ -1,0 +1,27 @@
+{
+	"nombre": " Janet",
+	"apellido": " Quispe",
+	"edad":" 22 años",
+	"deporte": " Voley"	,
+
+	"nombre2": " Andres",
+	"apellido2": " Maucally",
+	"edad2":" 25 años",
+	"deporte2": " Natación"	,
+
+	"nombre3": " Sofía",
+	"apellido3": " ",
+	"edad3":" 29 años",
+	"deporte3": "Futbol"	,
+
+	"nombre4": " Michell",
+	"apellido4": " Seguil",
+	"edad4":" 17 años",
+	"deporte4": "Natación",
+
+	"nombre4": " Maryorie",
+	"apellido4": "Quiroz",
+	"edad4":" 19 años",
+	"deporte4": "-----"		
+
+}
